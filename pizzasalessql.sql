@@ -1,4 +1,4 @@
-pizza dashboardimda var amma sql kodlarda var text kimi yukleyecem seliqeli ele /*select 
+ /*select 
 round(sum(price * quantity),0) as total_revenue
 
 from totalsales */
@@ -70,3 +70,4 @@ LIMIT 5
 
 
  
+
